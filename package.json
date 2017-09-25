@@ -1,0 +1,26 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "Contact List - MEAN application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "Express.js",
+    "Angular.js",
+    "Node.js"
+  ],
+  "author": "Hariharan S",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^1.4.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.12.1"
+  }
+}
